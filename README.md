@@ -41,4 +41,5 @@ Olá, meu nome é João, sou gerente de um cinema e atualmente estamos com muito
 ### em breve...
 
 # Passo a Passo do desenvolvimento
-### em breve...
+### Anotações iniciais das funcionalidades para ter uma visão geral e prosseguir com o refinamento das ideias.
+![image](https://github.com/ferdisneuberger/desafio-backend-pleno-mestres-da-web/assets/42359061/85211f9f-b94e-4a5f-a97a-317cecad2b1b)
